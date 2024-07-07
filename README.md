@@ -8,7 +8,7 @@ TRD3_mech.csv_editor
 	NB ! 
 	Use point "." as decimal separator for vehicle values 
 	even if system has comma "," as decimal separator !
-	(Mesh.csv and SimMesh.csv uses comma as data separator !)
+	(Mech.csv and SimMech.csv uses comma as data separator !)
 
 	Values are in metric.
 	
