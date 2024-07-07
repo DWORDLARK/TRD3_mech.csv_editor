@@ -13,8 +13,11 @@ TRD3_mesh.csv_editor
 	Values are in metric.
 	
 
+ How to use:
 
-
+ Place TRD3_mesh.csv_editor  program into same folder where mesh.csv or simmesh.csv
+  is located, click button: Import Mesh.csv    or button Import SimMesh.csv  to load file.
+  Click:  Save Mesh.csv , Save SimMesh.csv or   Save Mesh.csv / SimMesh.csv   to save file.
 
 
 
