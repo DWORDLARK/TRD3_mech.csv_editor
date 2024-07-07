@@ -1,9 +1,9 @@
 ----------------------------------------------------------------------------------------
-TRD3_mesh.csv_editor
+TRD3_mech.csv_editor
 ----------------------------------------------------------------------------------------
 
 
-	User can edit vehicle handling files:  Mesh.csv and SimMesh.csv
+	User can edit vehicle handling files:  Mech.csv and SimMech.csv
 
 	NB ! 
 	Use point "." as decimal separator for vehicle values 
@@ -15,9 +15,9 @@ TRD3_mesh.csv_editor
 ----------------------------------------------------------------------------------------
  How to use:
 
- Place TRD3_mesh.csv_editor  program into same folder where mesh.csv or simmesh.csv
-  is located, click button: Import Mesh.csv    or button Import SimMesh.csv  to load file.
-  Click:  Save Mesh.csv , Save SimMesh.csv or   Save Mesh.csv / SimMesh.csv   to save file.
+ Place TRD3_mech.csv_editor  program into same folder where Mech.csv or SimMech.csv
+  is located, click button: Import Mesh.csv    or button Import SimMech.csv  to load file.
+  Click:  Save Mech.csv , Save SimMech.csv or   Save Mech.csv / SimMech.csv   to save file.
   
 ----------------------------------------------------------------------------------------
 
