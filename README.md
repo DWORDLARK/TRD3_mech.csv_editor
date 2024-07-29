@@ -1,3 +1,7 @@
+***Since i have no interest to develop it, 
+***its free for anyone who would like to develop it to handle more values.
+***Source code files are included.
+
 ----------------------------------------------------------------------------------------
 TRD3_mech.csv_editor
 ----------------------------------------------------------------------------------------
