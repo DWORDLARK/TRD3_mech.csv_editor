@@ -22,6 +22,10 @@ TRD3_mech.csv_editor
  Place TRD3_mech.csv_editor  program into same folder where Mech.csv or SimMech.csv
   is located, click button: Import Mesh.csv    or button Import SimMech.csv  to load file.
   Click:  Save Mech.csv , Save SimMech.csv or   Save Mech.csv / SimMech.csv   to save file.
+
+  Last slider on Torque Curve page has checkbox "Linear alignment"
+  If checked, all other sliders are aligned in a straight line 
+  that follows last slider position.
   
 ----------------------------------------------------------------------------------------
 
@@ -41,6 +45,13 @@ TRD3_mech.csv_editor
 public release
 
 ----------------------------------------------------------------------------------------
+11.01.2025 (v1.0.1.5)
+
++Torque curve sliders linear alignment 
+
+----------------------------------------------------------------------------------------
+
+
 
 
 
