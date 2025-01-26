@@ -1,9 +1,5 @@
-***Since i have no interest to develop it, 
-***its free for anyone who would like to develop it to handle more values.
-***Source code files are included.
-
 ----------------------------------------------------------------------------------------
-TRD3_mech.csv_editor
+TRD3_mech.csv_editor (TRD3_mech_ed)
 ----------------------------------------------------------------------------------------
 
 
@@ -20,8 +16,18 @@ TRD3_mech.csv_editor
  How to use:
 
  Place TRD3_mech.csv_editor  program into same folder where Mech.csv or SimMech.csv
-  is located, click button: Import Mesh.csv    or button Import SimMech.csv  to load file.
-  Click:  Save Mech.csv , Save SimMech.csv or   Save Mech.csv / SimMech.csv   to save file.
+  is located,
+  
+  Click: Import Mesh  or button Import SimMech  to load file.
+  *Program creates Backup file: BKP_Mech.csv or BKP_SimMech.csv. 
+  
+ File is loaded into List on the right side (Data list).
+ User can select item from list (Data description list or Data list)
+ Selected item data is loaded into small text box above Data list.
+ User can edit selected data in this text box.
+ Press ENTER to save edited data to Data list.
+
+ Click:  Save Mech , Save SimMech or  Save Mech + SimMech   to save file.
 
   Last slider on Torque Curve page has checkbox "Linear alignment"
   If checked, all other sliders are aligned in a straight line 
@@ -50,10 +56,12 @@ public release
 +Torque curve sliders linear alignment 
 
 ----------------------------------------------------------------------------------------
+26.01.2025 (v1.0.1.7)
+
++Edit all handling data
 
 
-
-
+----------------------------------------------------------------------------------------
 
 
 
