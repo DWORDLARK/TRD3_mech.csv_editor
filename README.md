@@ -6,9 +6,11 @@ TRD3_mech.csv_editor (TRD3_mech_ed)
 	User can edit vehicle handling files:  Mech.csv and SimMech.csv
 
 	NB ! 
+ 	For manual editing (notepad or some other text editor)
 	Use point "." as decimal separator for vehicle values 
-	even if system has comma "," as decimal separator !
-	(Mech.csv and SimMech.csv uses comma as data separator !)
+	even if op.system has comma "," as decimal separator !
+	Mech.csv and SimMech.csv uses comma as data separator !
+
 
 	Values are in metric.
 	
