@@ -3,7 +3,8 @@ TRD3_mech.csv_editor (TRD3_mech_ed)
 ----------------------------------------------------------------------------------------
 
 
-	User can edit vehicle handling files:  Mech.csv and SimMech.csv
+	User can edit TOCA Race Driver 3 
+ 	vehicle handling files:  Mech.csv and SimMech.csv
 
 	NB ! 
  	For manual editing (notepad or some other text editor)
